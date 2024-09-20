@@ -15,9 +15,6 @@ Languages: Python
 Cloud: AWS, Oracle Cloud Infrastructure
 Tools: VS Code, GitHub, LeetHub
 Skill : Machine Learning, Natural language Processing (NLP), Artificial Intelligence.
-🔗 Connect with Me
-LinkedIn: [www.linkedin.com/in/krishnachaitanyakolipakula]
-Email: [krishna.kolipakulach@gmail.com]
 
 
 🌟 Thanks for Visiting!
