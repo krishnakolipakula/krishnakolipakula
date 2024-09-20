@@ -1,5 +1,5 @@
 👋 Hello, I'm Krishna!
-Welcome to my GitHub profile! I'm a passionate software engineer with a keen interest in cloud technologies, DevOps, and problem-solving through code. Here's a little about me:
+Welcome to my GitHub profile! I'm a passionate software engineer with a keen interest in Machine Learning , Artificial Intelligence , cloud technologies, and problem-solving through code. Here's a little about me:
 
 🚀 About Me
 🌱 Lifelong Learner: I believe in continuous growth and am always eager to learn new technologies and improve my skills. Currently, I'm diving deep into cloud computing, DevOps, and Terraform.
