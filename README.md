@@ -2,7 +2,7 @@
 <h3 align="center">Welcome to my GitHub Profile!</h3>
 
 <p align="center">
-  I'm a passionate software engineer with a keen interest in <strong>Machine Learning</strong>, <strong>Artificial Intelligence</strong>, <strong>Cloud Technologies</strong>, and <strong>Problem-Solving through Code</strong>. Let’s connect and grow together!
+  I'm a passionate Cloud engineer with a keen interest in <strong>Machine Learning</strong>, <strong>Artificial Intelligence</strong>, <strong>Cloud Technologies</strong>, and <strong>Problem-Solving through Code</strong>. Let’s connect and grow together!
 </p>
 
 ## 🚀 About Me
