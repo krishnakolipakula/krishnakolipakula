@@ -32,5 +32,6 @@ Feel free to explore my repositories, and don't hesitate to <a href="https://www
 
 <p align="center">Happy coding! 😄</p>
 
-[![My Medium story](@codescaptain&index=1)](#)">https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@krishnakolipakula&index=0&source=medium)](#)
+https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@krishnakolipakula&index=0&source=medium)
+
 
