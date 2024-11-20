@@ -32,7 +32,16 @@ Feel free to explore my repositories, and don't hesitate to <a href="https://www
 
 <p align="center">Happy coding! 😄</p>
 
-https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@krishna.kolipakulach&index=0&source=medium
-[![My Medium story](@krishna.kolipakulach&index=1)](#)">https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@krishna.kolipakulach&index=1&source=medium)](#)
+# 🌟 Check Out My Latest Articles on Medium! 🌟
+
+<div align="center">
+
+![My Medium story](https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@krishna.kolipakulach&index=-1&source=medium)
+
+![My Medium story](https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@krishna.kolipakulach&index=1&source=medium)
+![My Medium story](https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@krishna.kolipakulach&index=0&source=medium)  
+
+</div>
+
 
 
