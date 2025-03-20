@@ -36,7 +36,7 @@ Feel free to explore my repositories, and don't hesitate to <a href="https://www
 
 # 🌟 Check Out My Latest Articles on <a href="https://medium.com/@krishna.kolipakulach">Medium</a>! 🌟
 
-![My Medium story](https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@krishna.kolipakulach&index=1&source=medium)
+![My Medium story](https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@krishna.kolipakulach&index=0&source=medium)
 <p><a href="https://medium.com/@krishna.kolipakulach">CLICK HERE </p>
 </div>
 
