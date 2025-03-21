@@ -21,9 +21,11 @@ Collaboration is key! Whether contributing to open-source projects or helping a 
 
 ## 🛠️ My Tech Stack
   <strong>Languages:</strong> Python <br/>
-  <strong>Cloud:</strong> AWS, Oracle Cloud Infrastructure <br/>
+  <strong>Cloud:</strong> AWS, Oracle Cloud Infrastructure, VMware <br/>
   <strong>Tools:</strong> VS Code, GitHub, LeetHub <br/>
   <strong>Skills:</strong> Machine Learning, Natural Language Processing (NLP), Artificial Intelligence
+  <strong>DEvops:</strong> Terraform, Ansible
+
 
 ## 🌟 Thanks for Visiting!
 <p align="center">
