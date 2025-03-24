@@ -38,9 +38,10 @@ Feel free to explore my repositories, and don't hesitate to <a href="https://www
 
 # 🌟 Check Out My Latest Articles on <a href="https://medium.com/@krishna.kolipakulach">Medium</a>! 🌟
 
+[![Krishna's Medium Articles](https://github-readme-medium.vercel.app/?username=krishna.kolipakulach)](https://medium.com/@krishna.kolipakulach)
+<!--
 #![My Medium story](https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@krishna.kolipakulach&index=2&source=medium)
-[![Krishna's Medium Articles](https://github-readme-medium.vercel.app/?username=krishna.kolipakulach)](https://medium.com/@krishna.kolipakulach)
-[![Krishna's Medium Articles](https://github-readme-medium.vercel.app/?username=krishna.kolipakulach)](https://medium.com/@krishna.kolipakulach)
+-->
 
 <p><a href="https://medium.com/@krishna.kolipakulach">CLICK HERE </p>
 </div>
