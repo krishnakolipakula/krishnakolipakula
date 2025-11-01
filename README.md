@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me   
 
 - 🎓 **MS in Computer Science**, University of Florida (Spring 2027)  
 - ☁️ Certified in **AWS Developer Associate**, **OCI AI Foundations**, and **Azure Fundamentals**  
