@@ -13,7 +13,7 @@
 - 🎓 **MS in Computer Science @ University of Florida**
 - ⚙️ Exploring **Distributed Systems**, **Actor Model**, **Gleam**, and **Concurrent Execution**
 - ☁️ Background in **Cloud Engineering (AWS + Azure)** and reliability monitoring
-- 📘 Previously: Sify Technologies — Cloud & Monitoring Engineer (24x7 projects)
+- 📘 Previously: Sify Technologies — Software Engineer (24x7 projects)
 - ✍️ Sharing learnings on **Medium** & building real systems from first principles
 - 🎯 Currently focused on **Gleam**, **Gossip protocols**, **Chord P2P**, and **Simulation systems**
 
@@ -26,12 +26,12 @@
 | Area | Tools / Tech |
 |------|--------------|
 | **Distributed Systems** | Actor Model, BEAM VM, Gossip, Chord DHT |
-| **Languages** | Python, C++, Gleam, Go, JS |
+| **Languages** | Python, C++, Gleam, Go, JS, SQL |
 | **Cloud** | AWS, Azure, OCI |
 | **DevOps** | Terraform, Ansible, Docker, K8s |
-| **AI/ML** | Scikit-learn, NLP, Pandas |
+| **AI/ML** | LLMs/RAG, PyTorch, TensorFlow, Scikit-learn, NLP, Pandas |
 | **Monitoring** | CloudWatch, SolarWinds, ServiceNow |
-
+| **Backend & Database** | NodeJs, MongoDB, DynamoDB |
 ---
 
 ## 📦 Current Focus & Projects
