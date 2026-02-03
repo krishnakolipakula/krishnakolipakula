@@ -56,15 +56,14 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=krishnakolipakula&theme=tokyonight" height="150"/>  
 </div>
 
----
-
+<!-- 
+/*
 ## ✍️ Latest Articles  
-*(More DS-focused articles releasing soon)*
 
 <p align="center">
   <a href="https://medium.com/@krishna.kolipakulach"><img src="https://github-readme-medium.vercel.app/?username=krishna.kolipakulach&limit=3" /></a>
 </p>
-
+-->
 ---
 
 ## 🌐 Connect With Me  
