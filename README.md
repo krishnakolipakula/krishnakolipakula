@@ -47,7 +47,7 @@
 > Repos & articles are being published progressively — learning in public 🚀
 
 ---
-
+<!-- 
 ## 📊 GitHub Stats  
 > *Stats may not reflect real-time work (many private academic + draft repos). Actively pushing systems code soon ⚡*
 
