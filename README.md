@@ -47,7 +47,7 @@
 > Repos & articles are being published progressively — learning in public 🚀
 
 ---
-<!-- 
+
 ## 📊 GitHub Stats  
 > *Stats may not reflect real-time work (many private academic + draft repos). Actively pushing systems code soon ⚡*
 
@@ -56,14 +56,13 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=krishnakolipakula&theme=tokyonight" height="150"/>  
 </div>
 
-<!-- 
+
 /*
 ## ✍️ Latest Articles  
 
 <p align="center">
   <a href="https://medium.com/@krishna.kolipakulach"><img src="https://github-readme-medium.vercel.app/?username=krishna.kolipakulach&limit=3" /></a>
 </p>
--->
 ---
 
 ## 🌐 Connect With Me  
