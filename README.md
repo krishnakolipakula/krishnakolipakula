@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm <a href="https://github.com/krishnakolipakula">Krishna Chaitanya</a></h1>  
 <h3 align="center">🧠 Distributed Systems • ☁️ Cloud Engineering • 🏗️ ML & Systems Builder</h3>
 
-<p align="center">
+<p align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=820&lines=Distributed+Systems+%7C+Cloud+Automation+%7C+ML+Engineering;Building+Actor+Systems+in+Gleam;Learning+Deeply+%26+Documenting+My+Journey" />
 </p>
 
