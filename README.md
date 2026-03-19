@@ -76,5 +76,4 @@
 
 ---
 
-<p align="center"><b>📌 Crafting scalable systems — one actor at a time.</b></p>
 <p align="center">✨ Learn • Build • Break • Understand • Share ✨</p>
