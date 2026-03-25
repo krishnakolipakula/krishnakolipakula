@@ -10,7 +10,8 @@
 
 ## 🚀 About Me
 
-- 🎓 **MS in Computer Science @ University of Florida**
+- 🎓 **MS in Computer Science @ University of Florida** 
+- ✍️ Graduate Research Assistant working on ML Inference pipelines **Machine Learning**, **Transformers**, **Data Pipelines**
 - ⚙️ Exploring **Distributed Systems**, **Actor Model**, **Gleam**, and **Concurrent Execution**
 - ☁️ Background in **Cloud Engineering (AWS + Azure)** and reliability monitoring
 - 📘 Previously: Sify Technologies — Software Engineer (24x7 projects)
