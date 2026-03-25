@@ -38,9 +38,8 @@
 
 | Project / Area | Description |
 |----------------|------------|
-| 🧩 Gleam Actor System | Building actor-based distributed modules |
-| 🔄 Gossip + Push-Sum | Distributed convergence experiments |
-| 🕸️ Chord DHT | Consistent hashing & peer lookup |
+| 📰 ETHOS - ARES | Building Inference Data Pipeline for CLinical Data with GPT-2 Transformer and ML Statistics |
+| 🧩 Resellution | Building a solution for stakeholders to buy and sell appliances all over the world|
 | 📰 Reddit Simulation Engine | Actor-based social network simulation |
 | 📝 Medium Series | Documenting distributed systems learning journey |
 
