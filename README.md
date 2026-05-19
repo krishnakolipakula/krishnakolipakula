@@ -28,7 +28,7 @@
 |------|--------------|
 | **Distributed Systems** | Actor Model, BEAM VM, Gossip, Chord DHT |
 | **Languages** | Python, C++, Gleam, Go, JS, SQL |
-| **Cloud** | AWS, Azure, OCI |
+| **Cloud** | AWS, Azure, GCP, OCI |
 | **DevOps** | Terraform, Ansible, Docker, K8s |
 | **AI/ML** | LLMs/RAG, PyTorch, TensorFlow, Scikit-learn, NLP, Pandas |
 | **Monitoring** | CloudWatch, SolarWinds, ServiceNow |
